@@ -69,6 +69,7 @@
     border-radius: 10px;
     border-style: none;
     background-color: green;
+    color:#fff;
 }
 .box form button:hover{
     cursor: pointer;
